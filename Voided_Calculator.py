@@ -28,8 +28,7 @@ def sqrt(x):
         return cmath.sqrt(x) 
     else:
         return math.sqrt(x)
-
-# Additional functions
+        
 def sine(x):
     return math.sin(math.radians(x))
 
